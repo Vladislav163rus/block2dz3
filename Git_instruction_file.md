@@ -503,3 +503,5 @@ contents. arr.forEach(function(item) { console.log
 Оригинал статьи доступен на сайте [tutorialzine]
 
 [tutorialzine]: http://tutorialzine.com
+
+![фото котика](cat.jpg)
