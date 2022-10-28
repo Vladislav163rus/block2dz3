@@ -506,4 +506,4 @@ contents. arr.forEach(function(item) { console.log
 
 ![фото котика](cat.jpg)
 
-End.
+End!
