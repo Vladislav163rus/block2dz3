@@ -505,3 +505,5 @@ contents. arr.forEach(function(item) { console.log
 [tutorialzine]: http://tutorialzine.com
 
 ![фото котика](cat.jpg)
+
+End.
